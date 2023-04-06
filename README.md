@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cxxz
 - 👀 I’m interested in binary security
 - 🌱 I’m currently learning pwn
-- 💞️ I’m looking to collaborate on ctf
 - 📫 How to reach me ...
 
 <!---
