@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cxxz
 - 👀 I’m interested in binary security
-- 🌱 I’m currently learning pwn
+- 🌱 I’m currently learning pwn@NeSE
 - 📫 How to reach me ...
 
 <!---
